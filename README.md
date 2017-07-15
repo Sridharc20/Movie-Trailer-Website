@@ -19,4 +19,4 @@ Sample Input:
   G</br>
 Thanks for sharing the movie details, please verify in the browser</br>
 
-![Movie Trailer Website](http://url/to/img.png)
+![Movie Trailer Website](movie_website.png)
