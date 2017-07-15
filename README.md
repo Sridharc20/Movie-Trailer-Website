@@ -17,4 +17,3 @@ $python entertainment_center.py
   Can you please rate the movie ['G', 'PG', 'PG-13', 'R']
   G
 Thanks for sharing the movie details, please verify in the browser
-
