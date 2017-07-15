@@ -1,5 +1,5 @@
 # Movie-Trailer-Website
-Movie Trailer Website
+Movie Trailer Website</br>
 Please clone the repository:
 git clone https://github.com/Sridharc20/Movie-Trailer-Website.git
 cd Movie-Trailer-Website
