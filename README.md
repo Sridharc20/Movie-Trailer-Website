@@ -18,3 +18,5 @@ Sample Input:
   Can you please rate the movie ['G', 'PG', 'PG-13', 'R']</br>
   G</br>
 Thanks for sharing the movie details, please verify in the browser</br>
+
+![Movie Trailer Website](http://url/to/img.png)
