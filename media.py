@@ -25,3 +25,5 @@ class Movie():
         """
         This method will show the trailer of the selected movie on the browser
         """
+        webbrowser.open(self.youtube_url)
+        
