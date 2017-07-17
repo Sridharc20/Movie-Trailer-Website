@@ -24,15 +24,15 @@ ice_age = media.Movie(
     "G")
 print "please enter the movie details:"
 print "Enter Movie Name:"
-movie_name = raw_input()
+movie_name = input()
 print "Enter Movie story line"
-movie_story_line = raw_input()
+movie_story_line = input()
 print "Enter movie poster image location"
-movie_poster = raw_input()
+movie_poster = input()
 print "Enter movie trailer youtube link"
-movie_youtube_link = raw_input()
+movie_youtube_link = input()
 print "Can you please rate the movie", media.Movie.VALID_RATINGS
-movie_rating = raw_input()
+movie_rating = input()
 print "Thanks for sharing the movie details, please verify in the browser"
 m = media.Movie(
     movie_name, 
